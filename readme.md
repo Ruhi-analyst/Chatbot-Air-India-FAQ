@@ -44,8 +44,15 @@ streamlit run app.py
 
 After running the command, open your web browser and navigate to [http://localhost:8501](http://localhost:8501) to interact with the chatbot.
 
-![Screenshot (82)](https://github.com/user-attachments/assets/342bb432-9b34-436c-b024-7886bc4a2c59)
-![Screenshot (81)](https://github.com/user-attachments/assets/5f56948e-28a0-487f-ac5b-6b589497ddbf)
-![Screenshot (80)](https://github.com/user-attachments/assets/24567ec1-61ea-465f-ba97-9cb7645aa6e2)
-![Screenshot (79)](https://github.com/user-attachments/assets/eeadd71c-cb79-4a33-add8-37377e46e335)
 ![Screenshot (78)](https://github.com/user-attachments/assets/9612538b-8ce1-4049-abfd-9c33fc0429ee)
+
+![Screenshot (79)](https://github.com/user-attachments/assets/eeadd71c-cb79-4a33-add8-37377e46e335)
+
+![Screenshot (80)](https://github.com/user-attachments/assets/24567ec1-61ea-465f-ba97-9cb7645aa6e2)
+
+![Screenshot (81)](https://github.com/user-attachments/assets/5f56948e-28a0-487f-ac5b-6b589497ddbf)
+
+![Screenshot (82)](https://github.com/user-attachments/assets/342bb432-9b34-436c-b024-7886bc4a2c59)
+
+
+
